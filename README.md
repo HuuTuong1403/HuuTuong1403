@@ -1,15 +1,22 @@
-### <i>🔴Hi there, My name is Nguyen Huu Tuong 👋</i>
+### <p align='center'><i>🔴Hi there, My name is Nguyen Huu Tuong 👋</i></p>
 
-<img src='https://i.pinimg.com/originals/95/c1/0b/95c10ba02011d6474b609c9b5adcc411.gif'>
+<p align='center'>
+  <img src='https://i.pinimg.com/originals/95/c1/0b/95c10ba02011d6474b609c9b5adcc411.gif'>
+</p>
 
 
-### <i>🟠Something ablout me</i>
+### <i>🟠Something about me</i>
 
 - 🔭 I’m currently working at Home
 - 🌱 I’m currently learning Flutter 
 - 🤔 I’m looking for help with Anything
-- 📫 How to reach me: [Facebook - HuuTuong1403](https://www.facebook.com/huutuong1403/)
+- 📫 How to reach me: [Facebook - HuuTuong1403](https://www.facebook.com/huutuong1403)
 - 😄 Pronouns: He/Him
+
+### <i>🔵Contact me</i>
+                  
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/huutuong1403)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NguynHu95341286)
 
 ### <i>🟡Some Project by me</i>
 
