@@ -20,8 +20,10 @@
 
 ### <i>🟡Some Project by me</i>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HuuTuong1403&repo=RecruitmentProject&theme=dracula)](https://github.com/HuuTuong1403/VegetableShop_DBMS)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HuuTuong1403&repo=EatCleanApplication&theme=dracula)](https://github.com/HuuTuong1403/EatCleanApplication)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HuuTuong1403&repo=ec18b006-software-fe&theme=dracula)](https://github.com/HuuTuong1403/ec18b006-software-fe)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HuuTuong1403&repo=eDose-eCommerce&theme=dracula)](https://github.com/HuuTuong1403/ec18b006-software-fe)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HuuTuong1403&repo=cloudcomputing&theme=dracula)](https://github.com/HuuTuong1403/cloudcomputing)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HuuTuong1403&repo=VegetableShop_DBMS&theme=dracula)](https://github.com/HuuTuong1403/VegetableShop_DBMS)
