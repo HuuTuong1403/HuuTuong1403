@@ -16,7 +16,7 @@
 ### <i>🔵Contact me</i>
                   
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/huutuong1403)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NguynHu95341286)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HuuTuong1403)
 
 ### <i>🟡Some Project by me</i>
 
