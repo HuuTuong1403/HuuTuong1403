@@ -39,6 +39,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HuuTuong1403&theme=dracula"/>
 <img src="https://github-readme-stats.vercel.app/api?username=HuuTuong1403&count_private=true&show_icons=true&theme=dracula"/>
 
+## Coding stats 7 days
 <!--START_SECTION:waka-->
 ```text
 JavaScript   7 hrs 33 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.29 % 
