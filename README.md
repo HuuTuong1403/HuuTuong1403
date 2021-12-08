@@ -8,7 +8,7 @@
 ## *Something about me*
 
 - 🔭 I’m currently working at Home
-- 🌱 I’m currently learning ReactJS, NextJS 
+- 🌱 I’m currently learning ReactJS and NextJS 
 - 🤔 I’m looking for help with Anything
 - 📫 How to reach me: [Facebook - HuuTuong1403](https://www.facebook.com/huutuong1403)
 - 😄 Pronouns: He/Him
