@@ -14,10 +14,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk@master
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk@v0.0.18
         with:
           github_user_name: HuuTuong1403
+          gif_out_path: dist/github-snake.gi
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - name: push github-contribution-grid-snake.svg to the output branch
