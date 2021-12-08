@@ -49,3 +49,5 @@ JSON         3 hrs 13 mins   ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 CSS          2 hrs 52 mins   ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.29 % 
 ```
 <!--END_SECTION:waka-->
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/HuuTuong1403/HuuTuong1403/output/github-contribution-grid-snake.svg)
