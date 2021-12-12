@@ -1,9 +1,9 @@
 name: SNK
 
 on:
-  # run automatically at 19:01
+  # run automatically at 14:03
   schedule:
-    - cron: "1 19 * * *" 
+    - cron: "3 14 * * *" 
   
   # allows to manually run the job at any time
   workflow_dispatch:
