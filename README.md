@@ -42,8 +42,7 @@
 ## Coding stats 7 days
 <!--START_SECTION:waka-->
 ```text
-JavaScript   2 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀   65.30 % 
-JSON         1 min           ⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.70 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
