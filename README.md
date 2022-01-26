@@ -42,7 +42,8 @@
 ## Coding stats 7 days
 <!--START_SECTION:waka-->
 ```text
-
+JavaScript   26 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀   88.73 % 
+JSON         3 mins          ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.27 % 
 ```
 <!--END_SECTION:waka-->
 
